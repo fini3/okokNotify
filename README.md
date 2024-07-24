@@ -17,7 +17,7 @@ Sure, here is a nicely formatted README for the provided notification image:
 ## Installation
 
 1. **Download the Resource:**
-   Download the latest version of okokNotify from [GitHub](https://github.com/your-repo/okokNotify).
+   Download the latest version of okokNotify from [GitHub](https://github.com/fineaszz/okokNotify).
 
 2. **Add to Your Server:**
    Place the `okokNotify` folder into your server's `resources` directory.
