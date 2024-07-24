@@ -28,9 +28,6 @@ Sure, here is a nicely formatted README for the provided notification image:
    ensure okokNotify
    ```
 
-4. **Customize:**
-   Open the `config.lua` file within the `okokNotify` folder to customize the notification settings to your liking.
-
 ## Usage
 
 To send a notification, use the following example command in your scripts:
