@@ -1,6 +1,3 @@
-Sure, here is a nicely formatted README for the provided notification image:
-
----
 
 # okokNotify
 
