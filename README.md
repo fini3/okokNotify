@@ -1,10 +1,6 @@
 
 # okokNotify
 
-## Screenshot
-
-![okokNotify Screenshot](https://github.com/user-attachments/assets/36db1ae6-6dc6-49b3-b857-6ef7fb0be05b)
-
 ## Features
 
 - Clean and user-friendly notification interface
